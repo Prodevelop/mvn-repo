@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opensplice</groupId>
+  <artifactId>dcpssaj-osgi-bundle</artifactId>
+  <versioning>
+    <release>6.4</release>
+    <versions>
+      <version>6.4</version>
+    </versions>
+    <lastUpdated>20160908102843</lastUpdated>
+  </versioning>
+</metadata>
