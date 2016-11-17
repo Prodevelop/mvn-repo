@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>it.geosolutions</groupId>
+  <artifactId>geoserver-manager</artifactId>
+  <versioning>
+    <release>1.7Prode</release>
+    <versions>
+      <version>1.7Prode</version>
+    </versions>
+    <lastUpdated>20161026144843</lastUpdated>
+  </versioning>
+</metadata>
